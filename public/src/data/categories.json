@@ -1,0 +1,30 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "icon": "Laptop",
+    "description": "Smart gadgets and everyday tech essentials.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "clothing",
+    "name": "Clothing",
+    "icon": "Shirt",
+    "description": "Comfortable daily wear with modern style.",
+    "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "home",
+    "name": "Home & Living",
+    "icon": "Armchair",
+    "description": "Curated pieces to elevate your home.",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "beauty",
+    "name": "Beauty",
+    "icon": "Sparkles",
+    "description": "Self-care essentials and premium beauty picks.",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=800&q=80"
+  }
+]

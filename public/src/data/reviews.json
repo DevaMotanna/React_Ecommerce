@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "productId": 1,
+    "name": "Aarav Sharma",
+    "rating": 5,
+    "comment": "Excellent sound quality and battery backup. Great for daily use."
+  },
+  {
+    "id": 2,
+    "productId": 1,
+    "name": "Riya Mehta",
+    "rating": 4,
+    "comment": "Very comfortable and the noise cancellation works nicely."
+  },
+  {
+    "id": 3,
+    "productId": 2,
+    "name": "Karan Patel",
+    "rating": 4,
+    "comment": "Useful for tracking workouts and looks premium."
+  },
+  {
+    "id": 4,
+    "productId": 3,
+    "name": "Sneha Verma",
+    "rating": 5,
+    "comment": "Fabric feels amazing and the fit is perfect."
+  },
+  {
+    "id": 5,
+    "productId": 4,
+    "name": "Neha Joshi",
+    "rating": 4,
+    "comment": "Beautiful lamp design. Looks elegant in my room."
+  },
+  {
+    "id": 6,
+    "productId": 6,
+    "name": "Rahul Nair",
+    "rating": 5,
+    "comment": "Very lightweight and super comfortable for running."
+  }
+]
